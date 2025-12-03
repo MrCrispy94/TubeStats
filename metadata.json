@@ -1,0 +1,5 @@
+{
+  "name": "TubeStats - History Analyzer",
+  "description": "Analyze your YouTube watch history HTML export with interactive charts, detailed statistics, and AI-powered viewing habit estimation.",
+  "requestFramePermissions": []
+}
